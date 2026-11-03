@@ -1,4 +1,4 @@
-import PriceTag from "./PriceTag.jsx";
+import PriceTag from "./Pricetag.jsx";
 
 export default function CartSummary({ items }) {
   const count = items.reduce((n, item) => n + item.qty, 0);

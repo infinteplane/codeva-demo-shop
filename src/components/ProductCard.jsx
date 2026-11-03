@@ -1,4 +1,4 @@
-import PriceTag from "./PriceTag.jsx";
+import PriceTag from "./Pricetag.jsx";
 
 export default function ProductCard({ product, onAdd }) {
   return (
